@@ -1,3 +1,4 @@
+# For loop and strings
 
 def colorChange(color)
   if letter.lower()=="b":
